@@ -1,2 +1,1 @@
-# Blood EDA
-For blood dataset
+AI Lab work
